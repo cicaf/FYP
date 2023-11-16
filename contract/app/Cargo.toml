@@ -1,5 +1,5 @@
 [package]
-name = "hello_near"
+name = "land_system"
 version = "1.0.0"
 authors = ["Near Inc <hello@near.org>"]
 edition = "2021"
@@ -8,8 +8,10 @@ edition = "2021"
 crate-type = ["cdylib"]
 
 [dependencies]
-near-sdk = "4.0.0"
+near-sdk = "4.1.1"
+serde = { version = "1.0.190", features = ["derive"] }
 uint = { version = "0.9.3", default-features = false }
+
 
 [profile.release]
 codegen-units = 1
