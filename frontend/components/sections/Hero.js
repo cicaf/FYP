@@ -16,6 +16,9 @@ import {
 import { BiLeftArrowAlt, BiRightArrowAlt } from 'react-icons/bi'
 // And react-slick as our Carousel Lib
 import Slider from 'react-slick'
+import myImage from '../../assets/img1.jpg';
+import myImage1 from '../../assets/img2.jpg';
+import myImage2 from '../../assets/img3.jpg';
 
 // Settings for the slider
 const settings = {
@@ -54,20 +57,17 @@ export default function Hero({
     {
       title: 'Explore the finest in urban living with our stunning property.',
       text: "Luxurious urban living at its finest.",
-      image:
-        'https://res.cloudinary.com/duybctvku/image/upload/v1701249581/kladjv8nlp12kjar78yl.jpg',
-    },
+      image:myImage
+        },
     {
       title: 'Find your perfect property today',
       text: "",
-      image:
-        'https://res.cloudinary.com/duybctvku/image/upload/v1701249579/swzwniolcwhqfhcfbszz.jpg',
+      image:myImage1
     },
     {
       title: 'Let us help you find your perfect place to call home',
       text: ".",
-      image:
-        'https://res.cloudinary.com/duybctvku/image/upload/v1701249529/mkpmdpy8czdess6x243j.jpg',
+      image:myImage2
     },
   ]
 

@@ -6,7 +6,7 @@ export default function Logo(props) {
   return (
     <Box {...props}>
       <Text fontSize="lg" fontWeight="bold" >
-        Find Houses
+        Smart Land
       </Text>
      
     </Box>

@@ -105,9 +105,9 @@ export default function CryptoFreelancerTestimonials() {
       >
         <Testimonial>
           <TestimonialContent>
-            <TestimonialHeading>Exceptional Property Management</TestimonialHeading>
+            <TestimonialHeading>Outstanding Land Stewards</TestimonialHeading>
             <TestimonialText>
-              "I found the best property managers on this platform. They provided exceptional management services."
+              "The platform connected me with exceptional land stewards who provided unparalleled care and management for my property. Their dedication was truly impressive."
             </TestimonialText>
           </TestimonialContent>
           <TestimonialAvatar
@@ -118,9 +118,9 @@ export default function CryptoFreelancerTestimonials() {
         </Testimonial>
         <Testimonial>
           <TestimonialContent>
-            <TestimonialHeading>Efficient Real Estate Transactions</TestimonialHeading>
+            <TestimonialHeading>Streamlined Land Transactions</TestimonialHeading>
             <TestimonialText>
-              "This platform made real estate transactions seamless and secure. Highly recommended!"
+              "I experienced seamless and secure land transactions through this platform. Their efficient process ensured peace of mind throughout the acquisition."
             </TestimonialText>
           </TestimonialContent>
           <TestimonialAvatar
@@ -131,9 +131,9 @@ export default function CryptoFreelancerTestimonials() {
         </Testimonial>
         <Testimonial>
           <TestimonialContent>
-            <TestimonialHeading>Expert Property Advisors</TestimonialHeading>
+            <TestimonialHeading>Seasoned Land Advisors</TestimonialHeading>
             <TestimonialText>
-              "I connected with experienced property advisors who helped me make informed decisions."
+              "The experienced land advisors I found here guided me through insightful decisions, offering invaluable expertise and perspective."
             </TestimonialText>
           </TestimonialContent>
           <TestimonialAvatar
